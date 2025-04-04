@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
       ),
-      home: const MyHomePage(title: 'Rama appBar'),
+      home: const MyHomePage(title: 'Curso Git y GitHub'),
     );
   }
 }
